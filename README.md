@@ -22,6 +22,11 @@
 [<img align="left" alt="Traceton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Traceton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=traceton&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [website]: https://Traceton.com
 [twitter]: https://twitter.com/TracetonT
