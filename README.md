@@ -10,7 +10,6 @@
 
 ### My goals for 2021: 
 
-- Start my new software development job in november.
 - Focus on improving my communication.
 - Meet other people with similar interests.
 
