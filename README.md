@@ -3,7 +3,7 @@
 ## 🌲 I'm a software developer currently living in Knoxville Tennessee. 
 
 - 📖 I love problem solving and learning new ways to troubleshoot and better understand issues.
-- 🏍️ I enjoy cars, trucks, and motorcycles.
+- 🏍️ I love the outdoors.
 - ☕ I believe it's important to find a balance between work, play, and rest. 
 - 🏡 I find architectural design and development to be interesting. 
 - 📁 I Feel more creative and inspired when i am somewhere clean, organized, with lots of natural light.
