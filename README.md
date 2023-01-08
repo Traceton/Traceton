@@ -23,9 +23,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=traceton&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 [website]: https://Traceton.com
 [twitter]: https://twitter.com/TracetonT
