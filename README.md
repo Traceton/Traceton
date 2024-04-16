@@ -8,7 +8,7 @@
 - 🏡 I find architectural design and development to be interesting. 
 - 📁 I Feel more creative and inspired when i am somewhere clean, organized, with lots of natural light.
 
-### My goals for 2023: 
+### My goals for 2024: 
 
 - Focus on improving my communication.
 - Meet other people with similar interests.
