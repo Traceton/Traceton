@@ -1,7 +1,7 @@
 # Hi, I'm Traceton 👋
 
 **Software Engineer with an automotive background who enjoys building practical, real-world systems.**
-I’ve worked on production B2B platforms, early-stage startups, and my own projects — and I’m comfortable owning products from idea to deployment.
+I’ve worked on production B2B2C platforms, early-stage startups, and my own projects — and I’m comfortable owning products from idea to deployment.
 
 ---
 
