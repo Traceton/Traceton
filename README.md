@@ -1,23 +1,38 @@
-### 👋 Hi there, my name is Traceton. 
+# Hi, I'm Traceton 👋
 
-## 🌲 I'm a software developer currently living in Denver Colorado. 
-
-- 📖 I love problem solving and learning new ways to troubleshoot and better understand issues.
-- 🏍️ I love the outdoors.
-- ☕ I believe it's important to find a balance between work, play, and rest. 
-- 📁 I Feel more creative and inspired when i am somewhere clean, organized, with lots of natural light.
-
-### Connect with me:
-
-<!-- [<img align="left" alt="Traceton J Timmerman" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Traceton | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="Traceton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Traceton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Traceton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Software Engineer with an automotive background who enjoys building practical, real-world systems.**
+I’ve worked on production B2B platforms, early-stage startups, and my own projects — and I’m comfortable owning products from idea to deployment.
 
 ---
 
+### 🚀 What I Do
 
-[youtube]: https://youtube.com/TracetonT
-[instagram]: https://instagram.com/tracetonT
-[linkedin]: https://www.linkedin.com/in/traceton-timmerman/
+* Build full-stack web applications
+* Work in startup and fast-moving environments
+* Improve workflows and developer processes
+* Solve real-world problems (software + hardware)
+
+---
+
+### 🔧 Interests
+
+* Robotics & automation
+* Automotive tech
+* Startups & product development
+* Systems that blend hardware and software
+
+---
+
+### 📍 Based in
+
+Denver, CO
+
+---
+
+### 📫 Contact
+
+[Traceton.Timmerman@gmail.com](mailto:Traceton.Timmerman@gmail.com)
+
+---
+
+*Always building something new.*
