@@ -8,7 +8,7 @@ I’ve worked on production B2B2C platforms, early-stage startups, and my own pr
 ### 🚀 What I Do
 
 * Build full-stack web applications
-* Work in startup and fast-moving environments
+* Work in startups and fast-moving environments
 * Improve workflows and developer processes
 * Solve real-world problems (software + hardware)
 
